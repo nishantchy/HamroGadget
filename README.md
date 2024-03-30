@@ -1,0 +1,1 @@
+This is a full stack Ecommerce website I built using Laravel and ReactJs. In the project I first created a Rest Api using laravel and then used that api in the frontend uisng ReactJs. Also I have used Kinde Auth for sign up and login purposes. Tailwind css, Toastify, React Icons, and some other libraries.
